@@ -1,0 +1,2 @@
+$dna = "ATGCATGCATGCATGC";
+print "$dna";

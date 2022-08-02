@@ -1,0 +1,2 @@
+%Sports = (‘carrom’, ”queen”,’chess’,”King”,’ludo’,”goti”);
+print”carrom : $Sport(‘carrom’) ”;
